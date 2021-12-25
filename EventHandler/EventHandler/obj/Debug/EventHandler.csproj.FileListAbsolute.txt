@@ -1,0 +1,10 @@
+C:\Users\EG\source\repos\EventHandler\EventHandler\bin\Debug\EventHandlerTest.exe.config
+C:\Users\EG\source\repos\EventHandler\EventHandler\bin\Debug\EventHandlerTest.exe
+C:\Users\EG\source\repos\EventHandler\EventHandler\bin\Debug\EventHandlerTest.pdb
+C:\Users\EG\source\repos\EventHandler\EventHandler\obj\Debug\EventHandlerTest.Form1.resources
+C:\Users\EG\source\repos\EventHandler\EventHandler\obj\Debug\EventHandlerTest.Properties.Resources.resources
+C:\Users\EG\source\repos\EventHandler\EventHandler\obj\Debug\EventHandler.csproj.GenerateResource.cache
+C:\Users\EG\source\repos\EventHandler\EventHandler\obj\Debug\EventHandler.csproj.CoreCompileInputs.cache
+C:\Users\EG\source\repos\EventHandler\EventHandler\obj\Debug\EventHandlerTest.exe
+C:\Users\EG\source\repos\EventHandler\EventHandler\obj\Debug\EventHandlerTest.pdb
+C:\Users\EG\source\repos\EventHandler\EventHandler\obj\Debug\EventHandler.csproj.AssemblyReference.cache
