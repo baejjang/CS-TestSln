@@ -1,0 +1,10 @@
+C:\Users\EG\source\repos\BitOperatorTest\bin\Debug\BitOperatorTest.exe.config
+C:\Users\EG\source\repos\BitOperatorTest\bin\Debug\BitOperatorTest.exe
+C:\Users\EG\source\repos\BitOperatorTest\bin\Debug\BitOperatorTest.pdb
+C:\Users\EG\source\repos\BitOperatorTest\obj\Debug\BitOperatorTest.frmBitOperation.resources
+C:\Users\EG\source\repos\BitOperatorTest\obj\Debug\BitOperatorTest.Properties.Resources.resources
+C:\Users\EG\source\repos\BitOperatorTest\obj\Debug\BitOperatorTest.csproj.GenerateResource.cache
+C:\Users\EG\source\repos\BitOperatorTest\obj\Debug\BitOperatorTest.csproj.CoreCompileInputs.cache
+C:\Users\EG\source\repos\BitOperatorTest\obj\Debug\BitOperatorTest.exe
+C:\Users\EG\source\repos\BitOperatorTest\obj\Debug\BitOperatorTest.pdb
+C:\Users\EG\source\repos\BitOperatorTest\obj\Debug\BitOperatorTest.csproj.AssemblyReference.cache
