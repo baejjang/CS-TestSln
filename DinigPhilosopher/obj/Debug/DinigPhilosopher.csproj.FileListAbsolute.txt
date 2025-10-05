@@ -1,0 +1,10 @@
+D:\TestProject\DinigPhilosopher\bin\Debug\DinigPhilosopher.exe
+D:\TestProject\DinigPhilosopher\bin\Debug\DinigPhilosopher.pdb
+D:\TestProject\DinigPhilosopher\obj\Debug\ResolveAssemblyReference.cache
+D:\TestProject\DinigPhilosopher\obj\Debug\DinigPhilosopher.exe
+D:\TestProject\DinigPhilosopher\obj\Debug\DinigPhilosopher.pdb
+H:\TestProject\DinigPhilosopher\obj\Debug\DinigPhilosopher.exe
+H:\TestProject\DinigPhilosopher\obj\Debug\DinigPhilosopher.pdb
+H:\TestProject\DinigPhilosopher\bin\Debug\DinigPhilosopher.exe
+H:\TestProject\DinigPhilosopher\bin\Debug\DinigPhilosopher.pdb
+H:\TestProject\DinigPhilosopher\obj\Debug\ResolveAssemblyReference.cache
