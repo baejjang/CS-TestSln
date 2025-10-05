@@ -1,0 +1,16 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ExamMultiThread\ExamUIThread\bin\Debug\ExamUIThread.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ExamMultiThread\ExamUIThread\bin\Debug\ExamUIThread.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ExamMultiThread\ExamUIThread\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ExamMultiThread\ExamUIThread\obj\Debug\ExamUIThread.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ExamMultiThread\ExamUIThread\obj\Debug\ExamUIThread.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ExamMultiThread\ExamUIThread\obj\Debug\ExamUIThread.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ExamMultiThread\ExamUIThread\obj\Debug\ExamUIThread.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ExamMultiThread\ExamUIThread\obj\Debug\ExamUIThread.pdb
+D:\TestProject\ExamMultiThread\ExamUIThread\bin\Debug\ExamUIThread.exe
+D:\TestProject\ExamMultiThread\ExamUIThread\bin\Debug\ExamUIThread.pdb
+D:\TestProject\ExamMultiThread\ExamUIThread\obj\Debug\ResolveAssemblyReference.cache
+D:\TestProject\ExamMultiThread\ExamUIThread\obj\Debug\ExamUIThread.Form1.resources
+D:\TestProject\ExamMultiThread\ExamUIThread\obj\Debug\ExamUIThread.Properties.Resources.resources
+D:\TestProject\ExamMultiThread\ExamUIThread\obj\Debug\ExamUIThread.csproj.GenerateResource.Cache
+D:\TestProject\ExamMultiThread\ExamUIThread\obj\Debug\ExamUIThread.exe
+D:\TestProject\ExamMultiThread\ExamUIThread\obj\Debug\ExamUIThread.pdb

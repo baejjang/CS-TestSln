@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ExamMultiThread\ExamThreadTimer\bin\Debug\ExamThreadTimer.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ExamMultiThread\ExamThreadTimer\bin\Debug\ExamThreadTimer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ExamMultiThread\ExamThreadTimer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ExamMultiThread\ExamThreadTimer\obj\Debug\ExamThreadTimer.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ExamMultiThread\ExamThreadTimer\obj\Debug\ExamThreadTimer.pdb
+D:\TestProject\ExamMultiThread\ExamThreadTimer\bin\Debug\ExamThreadTimer.exe
+D:\TestProject\ExamMultiThread\ExamThreadTimer\bin\Debug\ExamThreadTimer.pdb
+D:\TestProject\ExamMultiThread\ExamThreadTimer\obj\Debug\ResolveAssemblyReference.cache
+D:\TestProject\ExamMultiThread\ExamThreadTimer\obj\Debug\ExamThreadTimer.exe
+D:\TestProject\ExamMultiThread\ExamThreadTimer\obj\Debug\ExamThreadTimer.pdb

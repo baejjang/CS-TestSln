@@ -1,0 +1,5 @@
+D:\TestProject\ExamMultiThread\RaceConditionConsole\bin\Debug\RaceConditionConsole.exe
+D:\TestProject\ExamMultiThread\RaceConditionConsole\bin\Debug\RaceConditionConsole.pdb
+D:\TestProject\ExamMultiThread\RaceConditionConsole\obj\Debug\ResolveAssemblyReference.cache
+D:\TestProject\ExamMultiThread\RaceConditionConsole\obj\Debug\RaceConditionConsole.exe
+D:\TestProject\ExamMultiThread\RaceConditionConsole\obj\Debug\RaceConditionConsole.pdb

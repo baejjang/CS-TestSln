@@ -1,0 +1,7 @@
+D:\TestProject\ExamMultiThread\RaceCondition\bin\Debug\RaceCondition.exe
+D:\TestProject\ExamMultiThread\RaceCondition\bin\Debug\RaceCondition.pdb
+D:\TestProject\ExamMultiThread\RaceCondition\obj\Debug\ResolveAssemblyReference.cache
+D:\TestProject\ExamMultiThread\RaceCondition\obj\Debug\RaceCondition.Properties.Resources.resources
+D:\TestProject\ExamMultiThread\RaceCondition\obj\Debug\RaceCondition.csproj.GenerateResource.Cache
+D:\TestProject\ExamMultiThread\RaceCondition\obj\Debug\RaceCondition.exe
+D:\TestProject\ExamMultiThread\RaceCondition\obj\Debug\RaceCondition.pdb

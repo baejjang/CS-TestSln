@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceCondition", "RaceCondition.csproj", "{DF7D5C51-54B3-4CEE-BF71-77DA31447788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceConditionConsole", "..\RaceConditionConsole\RaceConditionConsole.csproj", "{BAD95388-D885-464B-B246-AF7DBC645A10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF7D5C51-54B3-4CEE-BF71-77DA31447788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7D5C51-54B3-4CEE-BF71-77DA31447788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7D5C51-54B3-4CEE-BF71-77DA31447788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7D5C51-54B3-4CEE-BF71-77DA31447788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAD95388-D885-464B-B246-AF7DBC645A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD95388-D885-464B-B246-AF7DBC645A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD95388-D885-464B-B246-AF7DBC645A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD95388-D885-464B-B246-AF7DBC645A10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
