@@ -1,0 +1,12 @@
+D:\TestProject\AsyncSocket_BeginMethod\Client\bin\Debug\Client.exe
+D:\TestProject\AsyncSocket_BeginMethod\Client\bin\Debug\Client.pdb
+D:\TestProject\AsyncSocket_BeginMethod\Client\obj\Debug\ResolveAssemblyReference.cache
+D:\TestProject\AsyncSocket_BeginMethod\Client\obj\Debug\Client.FrmClient.resources
+D:\TestProject\AsyncSocket_BeginMethod\Client\obj\Debug\Client.Properties.Resources.resources
+D:\TestProject\AsyncSocket_BeginMethod\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\TestProject\AsyncSocket_BeginMethod\Client\obj\Debug\Client.exe
+D:\TestProject\AsyncSocket_BeginMethod\Client\obj\Debug\Client.pdb
+D:\TestProject\AsyncSocket\AsyncSocketChat2\Client\obj\Debug\Client.exe
+D:\TestProject\AsyncSocket\AsyncSocketChat2\Client\obj\Debug\Client.pdb
+H:\TestProject\AsyncSocket\AsyncSocketChat2\Client\obj\Debug\Client.exe
+H:\TestProject\AsyncSocket\AsyncSocketChat2\Client\obj\Debug\Client.pdb
