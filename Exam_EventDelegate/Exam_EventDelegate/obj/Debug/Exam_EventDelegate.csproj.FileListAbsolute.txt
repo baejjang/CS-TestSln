@@ -1,0 +1,10 @@
+D:\TestProject\Exam_EventDelegate\Exam_EventDelegate\obj\Debug\ResolveAssemblyReference.cache
+D:\TestProject\Exam_EventDelegate\Exam_EventDelegate\bin\Debug\Exam_EventDelegate.exe
+D:\TestProject\Exam_EventDelegate\Exam_EventDelegate\bin\Debug\Exam_EventDelegate.pdb
+D:\TestProject\Exam_EventDelegate\Exam_EventDelegate\obj\Debug\Exam_EventDelegate.exe
+D:\TestProject\Exam_EventDelegate\Exam_EventDelegate\obj\Debug\Exam_EventDelegate.pdb
+H:\TestProject\Exam_EventDelegate\Exam_EventDelegate\obj\Debug\Exam_EventDelegate.exe
+H:\TestProject\Exam_EventDelegate\Exam_EventDelegate\obj\Debug\Exam_EventDelegate.pdb
+H:\TestProject\Exam_EventDelegate\Exam_EventDelegate\bin\Debug\Exam_EventDelegate.exe
+H:\TestProject\Exam_EventDelegate\Exam_EventDelegate\bin\Debug\Exam_EventDelegate.pdb
+H:\TestProject\Exam_EventDelegate\Exam_EventDelegate\obj\Debug\ResolveAssemblyReference.cache
